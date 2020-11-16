@@ -1,7 +1,13 @@
 #  👋Hi everyOne,I'm Lorentz.我是崔文轩，来自CSUST计通学院，
-### 📫 How to reach me:
+### 📫 怎样联系我(How to contract me):
 1. QQ：1150314525
 2. VX：cuiwenxuan1150314525
+
+### 📫（小小的帮助）little help:
+1. CSUST计通学院同学的实验
+2. CSUST计通学院同学的期末考试题库
+
+### ⚡一些小型自己制作的项目
 <!--
 **hendredlorentz/hendredlorentz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +20,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  Fun fact: ...
 -->
