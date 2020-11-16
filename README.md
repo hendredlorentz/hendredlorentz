@@ -1,5 +1,7 @@
-### Hi there 👋
-
+#  👋Hi everyOne,I'm Lorentz.我是崔文轩，来自CSUST计通学院，
+### 📫 How to reach me:
+1. QQ：1150314525
+2. VX：cuiwenxuan1150314525
 <!--
 **hendredlorentz/hendredlorentz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
