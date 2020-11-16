@@ -1,4 +1,4 @@
-#  👋Hi everyOne,I'm Lorentz.我是崔文轩，来自CSUST计通学院，
+#  👋Hi everyOne,I'm Lorentz.来自CSUST计通学院，
 ### 📫 怎样联系我(How to contract me):
 1. QQ：1150314525
 2. VX：cuiwenxuan1150314525
